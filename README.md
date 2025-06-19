@@ -1,5 +1,5 @@
 # FOOD-DELIVERY-TIME-PREDICTOR KNN
-**Food Delivery Time Predictor using KNN (Naive Bayes)**
+**Food Delivery Time Predictor using K-Nearest Neighbours (Naive Bayes)**
 
 This model was built on Kaggle Notebook since the code might not work on Jupyter Notebook due to version diferences or thw use of Jupyter Web (which isnt the problem with Kaggle Notebook). The main source code utilises Machine Learning Algorithms specified to give the required output (included with the code itself).
 
@@ -17,7 +17,7 @@ This model was built on Kaggle Notebook since the code might not work on Jupyter
 
 **Model Summary**
 
-Type of Model: KNN (Naive Bayes Algorithm)
+Type of Model: K-Nearest Neighbours (Naive Bayes Algorithm)
 
 Objective: Predict estimated food delivery time based on various features like distance, restaurant rating, delivery partner experience, etc.
 
