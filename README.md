@@ -19,6 +19,7 @@ This model was built on Kaggle Notebook since the code might not work on Jupyter
 
 Type of Model: K-Nearest Neighbours (Naive Bayes Algorithm)
 
-Objective: Predict estimated food delivery time based on various features like distance, restaurant rating, delivery partner experience, etc.
+Objective: The goal of this model is to predict whether food delivery will be fast or delayed based on features like customer location, restaurant location, weather conditions, traffic conditions, and more. This task is a binary classification problem where the model will predict delivery status: "Fast" or "Delayed."
+
 
 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
